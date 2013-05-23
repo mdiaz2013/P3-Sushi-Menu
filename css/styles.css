@@ -1,0 +1,89 @@
+.mosaic-block {
+	float:left;
+	position:relative;
+	overflow:hidden;
+	width:287px;
+	height:220px;
+	margin:10px;
+	border:1px solid #fff;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+}
+
+.mosaic-backdrop {
+	display:none;
+	position:absolute;
+	top:0;
+	height:100%;
+	width:100%;
+	width:287px;
+	height:220px;
+}
+
+.mosaic-overlay {
+	display:none;
+	z-index:8;
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+	
+.mosaic-block1 {
+	float:left;
+	position:relative;
+	overflow:hidden;
+	width:595px;
+	height:220px;
+	margin:10px;
+	border:1px solid #fff;
+	-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.5);
+}
+
+h1 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-weight: lighter;
+	color: red;
+	font-size: 84px;
+	margin-top: 53px;
+}
+
+h3 {
+	font-family: 'Magra', sans-serif;
+	font-weight:normal;
+	
+}
+
+h2 {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-weight: lighter;
+	color: #6B5D52;
+	font-size: 55px;
+	margin-top: 18px;
+	margin-left: 55px;
+}
+
+.spicy 	{
+	color: red;
+}
+
+.raw 	{
+	color: #867C62;
+}
+
+img {
+	 height:220px;
+}
+
+
+hr {
+margin: 20px 0;
+border: 0;
+border-top: 2.5
+px solid #6B5D52;
+border-bottom: 1px solid #6B5D52;
+}
+
+
+
+
+
+
